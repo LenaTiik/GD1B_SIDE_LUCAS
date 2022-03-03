@@ -1,0 +1,4 @@
+Commande
+Aller à Droite : D 
+Aller à Gauche : Q
+Sauter : Espace
